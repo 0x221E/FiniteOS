@@ -63,6 +63,6 @@ Any feedback is very welcome, please propose changes, create PRs for the source 
 Everything in the github repository, and in this manual, is a living document. This manual will be edited iteratively and contents in a chapter may change upon review or feedback. You can view the github commit history for the previous versions.
 
 
-[1]: See <https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html> for more information on intel CPUs.
+[1]: <https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html "Intel SDM"
 
-[2]: See <https://wiki.osdev.org/Assembly> for more information on assembly
+[2]: <https://wiki.osdev.org/Assembly> "OSDev Wiki: Assembly"
