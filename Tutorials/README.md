@@ -9,7 +9,7 @@ This manual implements the bOSsin' operating system and the bossin' bootloader.
 
 ## 1.1 Prerequisites
 - The intended audience of this manual is os development newbies with a significant amount of C experience.
-- A fundamental knowledge of the [CPU][1] and the assembly [language][2] is a must.
+- A fundamental knowledge of the CPU [[1]](#1) and the assembly language [[2(#2)]] is a must.
 - Adequate knowledge of build systems (bOSsin' uses GNUMakefile), and linker.
 
 ## 1.2 References & Learning Materials 
@@ -63,6 +63,6 @@ Any feedback is very welcome, please propose changes, create PRs for the source 
 Everything in the github repository, and in this manual, is a living document. This manual will be edited iteratively and contents in a chapter may change upon review or feedback. You can view the github commit history for the previous versions.
 
 
-[1]: <https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html "Intel SDM"
+<a id="1">[1]</a> See <https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html> for more information on the CPU.
 
-[2]: <https://wiki.osdev.org/Assembly> "OSDev Wiki: Assembly"
+<a id="2">[2]</a> See <https://wiki.osdev.org/Assembly> for more information on assembly.
